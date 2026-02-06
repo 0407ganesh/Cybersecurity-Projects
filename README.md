@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## New Features Added
 
 - **Fernet** encryption/decryption  
@@ -17,3 +18,6 @@
   - Argon2 / PBKDF2 / scrypt for key derivation
   - AES-GCM or ChaCha20-Poly1305 for authenticated encryption
   - Secure random key generation
+=======
+# Cybersecurity-Projects
+>>>>>>> aed6e5961bbc013033400e715d17e4404df373dc
